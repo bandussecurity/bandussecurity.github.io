@@ -4,7 +4,7 @@ title: "회사소개"
 sidebar:
   nav: "company"
 ---
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/bandus/사업분야2.JPG" alt="">
+<img src="/assets/images/bandus/사업분야2.JPG" alt="">
 <br>
 반더스 시큐리티는 보안컨설팅, 보안교육, 모의해킹, SW 개발 및 자문, 모의해킹 등을 수행하는 회사입니다.  
   
