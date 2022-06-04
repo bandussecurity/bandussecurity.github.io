@@ -21,7 +21,7 @@ foo:
 # main links
 main:
   - title: "Company"
-    url: /company/company/
+    url: /company/company
   - title: "Solution"
     url: /solution/    
   - title: "Service"
@@ -45,9 +45,9 @@ company:
   - title: company
     children:
       - title: "회사소개"
-        url: /company/company/
+        url: /company/company
       - title: "연혁"
-        url: /company/history/
+        url: /company/history
         
 # documentation links
 docs:
