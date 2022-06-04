@@ -20,18 +20,35 @@ foo:
 
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
-  - title: "About"
-    url: /about/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Terms &amp; Privacy Policy"
-    url: /terms/
+  - title: "Company"
+    url: /company/company/
+  - title: "Solution"
+    url: /solution/    
+  - title: "Service"
+    url: /service/    
+  - title: "Training"
+    url: /training/    
+    
+#  - title: "Quick-Start Guide"
+#    url: /docs/quick-start-guide/
+#  - title: "About"
+#    url: /about/
+#  - title: "Sample Posts"
+#    url: /year-archive/
+#  - title: "Sample Collections"
+#    url: /collection-archive/
+#  - title: "Terms &amp; Privacy Policy"
+#    url: /terms/
 
-
+# history links
+company:
+  - title: company
+    children:
+      - title: "회사소개"
+        url: /company/company/
+      - title: "연혁"
+        url: /company/history/
+        
 # documentation links
 docs:
   - title: Getting Started
